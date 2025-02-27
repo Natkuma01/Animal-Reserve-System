@@ -16,14 +16,18 @@ Driver.java: The main class that provides a menu-driven interface for interactin
 
 # Features
 Animal Intake: Users can add new rescue dogs and monkeys
+
 Animal Reservation: Users can reserve animals for deployment based on type and location
+
 Animal Listing: Users can view available and in-service animals
+
 Input Validation: Ensures user inputs are valid before processing
+
 Interactive Menu: Provides a user-friendly menu for navigating the system
 
 # Requirements
-Java Developmenet Kit
-Eclipse IDE or any Java-compatible IDE
+- Java Developmenet Kit
+- Eclipse IDE or any Java-compatible IDE
 
 # Installation and Setup
 1. Clone this repository
