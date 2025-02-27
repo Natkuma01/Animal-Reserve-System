@@ -32,6 +32,8 @@ Interactive Menu: Provides a user-friendly menu for navigating the system
 # Installation and Setup
 1. Clone this repository
 2. Open the project in your preferred IDE
+3. Compile the code: javac *.java
+4. Run the application: java Driver
 
 
    
