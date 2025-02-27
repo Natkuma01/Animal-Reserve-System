@@ -5,9 +5,13 @@ This project is dedicated to help manage and track rescue animals, including dog
 
 # Project Scope
 This project includes the following key components:
+
 RescueAnimal.java: Base class for all rescue animals.
+
 Dog.java: Subclass of RescueAnimal that represents a rescue dog.
+
 Monkey.java: Subclass of RescueAnimal that represents a rescue monkey.
+
 Driver.java: The main class that provides a menu-driven interface for interacting with the system.
 
 # Features
