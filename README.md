@@ -1,5 +1,5 @@
 # Animal-Reserve-System
-__________________________________________________________
+
 # Overview
 This project is dedicated to help manage and track rescue animals, including dogs and monkeys, for development in search-and rescue operations.The application allows users to intake new animals, reserve them for deployment, and view available animals.
 
